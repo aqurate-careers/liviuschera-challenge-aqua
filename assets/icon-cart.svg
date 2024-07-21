@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="icon-cart" transform="translate(-1543 -353.5)">
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="45" height="45" transform="translate(1543 353.5)" fill="none"/>
+    <path id="Icon_material-shopping-cart" data-name="Icon material-shopping-cart" d="M8.464,21.57a2.321,2.321,0,1,0,2.321,2.321A2.318,2.318,0,0,0,8.464,21.57ZM1.5,3V5.321H3.821L8,14.13,6.433,16.974a2.244,2.244,0,0,0-.29,1.114,2.328,2.328,0,0,0,2.321,2.321H22.391V18.088H8.951a.287.287,0,0,1-.29-.29l.035-.139L9.74,15.767h8.647a2.31,2.31,0,0,0,2.031-1.2l4.155-7.532a1.134,1.134,0,0,0,.139-.557,1.164,1.164,0,0,0-1.161-1.161H6.386L5.3,3ZM20.07,21.57a2.321,2.321,0,1,0,2.321,2.321A2.318,2.318,0,0,0,20.07,21.57Z" transform="translate(1552.394 361.394)" fill="#fff"/>
+  </g>
+</svg>
